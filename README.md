@@ -11,7 +11,8 @@
 
 - 🩷🌸Coidealizadora do <strong>Safe Woman</strong> APP voltado para Segurança e Combate à violência da mulher.
 
-- 👩🏽‍🎓Graduada em Análise e Desenvolvimento de Sistemas e Graduanda em Inteligência Artificial pela @USCS. 
+- 👩🏽‍🎓Graduada em Análise e Desenvolvimento de Sistemas.
+- 👩🏽‍🎓Graduanda em Inteligência Artificial pela @USCS. 
 
 - 👩🏽‍🎓Técnica em Desenvolvimento de Sistemas pela @etec.
 
